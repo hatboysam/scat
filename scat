@@ -1,0 +1,4 @@
+#!/bin/bash
+FILE=$1
+echo $FILE': No such file or directory'
+cat $FILE
